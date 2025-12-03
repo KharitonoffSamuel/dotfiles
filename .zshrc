@@ -116,7 +116,9 @@ alias gac='ga && gc'
 alias gd='git diff'
 alias gp='git push'
 alias gl='git log --oneline --graph --all'
+alias gr='git rebase -i HEAD~2'
 alias k='kubectl'
+alias da='direnv allow'
 
 
 # === Direnv hook ===
