@@ -111,6 +111,9 @@ alias la='ls -A'
 alias l='ls -CF'
 alias k='kubectl'
 alias da='direnv allow'
+alias p='pulumi'
+alias pu='pulumi up'
+alias pd='pulumi destroy'
 
 
 # === Direnv hook ===
